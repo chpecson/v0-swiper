@@ -11,7 +11,7 @@ import SwiperCore, {
   Thumbs,
   Virtual,
   Zoom,
-} from 'swiper';
+} from 'v0-swiper';
 
 SwiperCore.use([
   Navigation,
