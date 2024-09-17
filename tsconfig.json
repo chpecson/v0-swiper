@@ -20,8 +20,8 @@
     "module": "es2020",
     "lib": ["es2020", "dom"],
     "paths": {
-      "swiper": ["dist", "dist/swiper.esm.js"],
-      "swiper/*": ["dist/*"]
+      "v0-swiper": ["dist", "dist/swiper.esm.js"],
+      "v0-swiper/*": ["dist/*"]
     }
   },
   "angularCompilerOptions": {
